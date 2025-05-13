@@ -1,0 +1,13 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+textarea::selection {
+  background-color: #7c3aed;
+  color: white;
+}
+
+button:focus {
+  outline: 2px solid #a78bfa;
+  outline-offset: 2px;
+}

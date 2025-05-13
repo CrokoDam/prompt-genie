@@ -1,0 +1,122 @@
+{
+  "resume": {
+    "write a cover letter #1": "Act as a career expert. Draft a compelling cover letter for a [job_title] at [company], focusing on [achievements] and values fit.",
+    "improve my resume #2": "Act as a professional resume writer. Enhance this resume for a [job_title] position, emphasizing [skills] and making it ATS-optimized.",
+    "improve my resume #3": "Act as a professional resume writer. Enhance this resume for a [job_title] position, emphasizing [skills] and making it ATS-optimized.",
+    "improve my resume #4": "Act as a professional resume writer. Enhance this resume for a [job_title] position, emphasizing [skills] and making it ATS-optimized.",
+    "write a cover letter #5": "Act as a career expert. Draft a compelling cover letter for a [job_title] at [company], focusing on [achievements] and values fit.",
+    "write a cover letter #6": "Act as a career expert. Draft a compelling cover letter for a [job_title] at [company], focusing on [achievements] and values fit.",
+    "write a cover letter #7": "Act as a career expert. Draft a compelling cover letter for a [job_title] at [company], focusing on [achievements] and values fit.",
+    "write a cover letter #8": "Act as a career expert. Draft a compelling cover letter for a [job_title] at [company], focusing on [achievements] and values fit.",
+    "improve my resume #9": "Act as a professional resume writer. Enhance this resume for a [job_title] position, emphasizing [skills] and making it ATS-optimized.",
+    "write a cover letter #10": "Act as a career expert. Draft a compelling cover letter for a [job_title] at [company], focusing on [achievements] and values fit."
+  },
+  "coding": {
+    "debug this python code #1": "Act as a senior Python developer. Debug this code and explain the errors clearly: [paste_code].",
+    "debug this python code #2": "Act as a senior Python developer. Debug this code and explain the errors clearly: [paste_code].",
+    "optimize this function #3": "Act as a performance engineer. Optimize this code function for speed and readability: [paste_code].",
+    "debug this python code #4": "Act as a senior Python developer. Debug this code and explain the errors clearly: [paste_code].",
+    "debug this python code #5": "Act as a senior Python developer. Debug this code and explain the errors clearly: [paste_code].",
+    "optimize this function #6": "Act as a performance engineer. Optimize this code function for speed and readability: [paste_code].",
+    "debug this python code #7": "Act as a senior Python developer. Debug this code and explain the errors clearly: [paste_code].",
+    "optimize this function #8": "Act as a performance engineer. Optimize this code function for speed and readability: [paste_code].",
+    "debug this python code #9": "Act as a senior Python developer. Debug this code and explain the errors clearly: [paste_code].",
+    "debug this python code #10": "Act as a senior Python developer. Debug this code and explain the errors clearly: [paste_code]."
+  },
+  "marketing": {
+    "create a content calendar #1": "Act as a social media strategist. Build a 30-day content calendar for [brand] focusing on engagement and growth.",
+    "write a facebook ad #2": "Act as a digital marketer. Write a high-converting Facebook ad for [product/service] targeting [audience].",
+    "create a content calendar #3": "Act as a social media strategist. Build a 30-day content calendar for [brand] focusing on engagement and growth.",
+    "create a content calendar #4": "Act as a social media strategist. Build a 30-day content calendar for [brand] focusing on engagement and growth.",
+    "write a facebook ad #5": "Act as a digital marketer. Write a high-converting Facebook ad for [product/service] targeting [audience].",
+    "create a content calendar #6": "Act as a social media strategist. Build a 30-day content calendar for [brand] focusing on engagement and growth.",
+    "create a content calendar #7": "Act as a social media strategist. Build a 30-day content calendar for [brand] focusing on engagement and growth.",
+    "create a content calendar #8": "Act as a social media strategist. Build a 30-day content calendar for [brand] focusing on engagement and growth.",
+    "create a content calendar #9": "Act as a social media strategist. Build a 30-day content calendar for [brand] focusing on engagement and growth.",
+    "write a facebook ad #10": "Act as a digital marketer. Write a high-converting Facebook ad for [product/service] targeting [audience]."
+  },
+  "education": {
+    "create a lesson plan #1": "Act as a curriculum designer. Create a 1-week lesson plan for [subject] for [grade level].",
+    "create a lesson plan #2": "Act as a curriculum designer. Create a 1-week lesson plan for [subject] for [grade level].",
+    "explain gravity to a child #3": "Act as a science teacher. Explain gravity to a 7-year-old using simple and fun examples.",
+    "explain gravity to a child #4": "Act as a science teacher. Explain gravity to a 7-year-old using simple and fun examples.",
+    "explain gravity to a child #5": "Act as a science teacher. Explain gravity to a 7-year-old using simple and fun examples.",
+    "create a lesson plan #6": "Act as a curriculum designer. Create a 1-week lesson plan for [subject] for [grade level].",
+    "explain gravity to a child #7": "Act as a science teacher. Explain gravity to a 7-year-old using simple and fun examples.",
+    "explain gravity to a child #8": "Act as a science teacher. Explain gravity to a 7-year-old using simple and fun examples.",
+    "create a lesson plan #9": "Act as a curriculum designer. Create a 1-week lesson plan for [subject] for [grade level].",
+    "create a lesson plan #10": "Act as a curriculum designer. Create a 1-week lesson plan for [subject] for [grade level]."
+  },
+  "business": {
+    "write a business proposal #1": "Act as a business analyst. Write a compelling proposal to pitch [idea] to potential investors.",
+    "summarize a meeting #2": "Act as a corporate assistant. Summarize this meeting transcript into key takeaways: [paste_transcript].",
+    "write a business proposal #3": "Act as a business analyst. Write a compelling proposal to pitch [idea] to potential investors.",
+    "summarize a meeting #4": "Act as a corporate assistant. Summarize this meeting transcript into key takeaways: [paste_transcript].",
+    "write a business proposal #5": "Act as a business analyst. Write a compelling proposal to pitch [idea] to potential investors.",
+    "write a business proposal #6": "Act as a business analyst. Write a compelling proposal to pitch [idea] to potential investors.",
+    "summarize a meeting #7": "Act as a corporate assistant. Summarize this meeting transcript into key takeaways: [paste_transcript].",
+    "summarize a meeting #8": "Act as a corporate assistant. Summarize this meeting transcript into key takeaways: [paste_transcript].",
+    "summarize a meeting #9": "Act as a corporate assistant. Summarize this meeting transcript into key takeaways: [paste_transcript].",
+    "summarize a meeting #10": "Act as a corporate assistant. Summarize this meeting transcript into key takeaways: [paste_transcript]."
+  },
+  "creative writing": {
+    "write a poem about stars #1": "Act as a poet. Write a lyrical poem about the stars and the cosmos in a romantic tone.",
+    "write a poem about stars #2": "Act as a poet. Write a lyrical poem about the stars and the cosmos in a romantic tone.",
+    "start a fantasy story #3": "Act as a fantasy novelist. Write an engaging first paragraph for a story set in a magical realm.",
+    "write a poem about stars #4": "Act as a poet. Write a lyrical poem about the stars and the cosmos in a romantic tone.",
+    "start a fantasy story #5": "Act as a fantasy novelist. Write an engaging first paragraph for a story set in a magical realm.",
+    "start a fantasy story #6": "Act as a fantasy novelist. Write an engaging first paragraph for a story set in a magical realm.",
+    "start a fantasy story #7": "Act as a fantasy novelist. Write an engaging first paragraph for a story set in a magical realm.",
+    "start a fantasy story #8": "Act as a fantasy novelist. Write an engaging first paragraph for a story set in a magical realm.",
+    "start a fantasy story #9": "Act as a fantasy novelist. Write an engaging first paragraph for a story set in a magical realm.",
+    "write a poem about stars #10": "Act as a poet. Write a lyrical poem about the stars and the cosmos in a romantic tone."
+  },
+  "health": {
+    "create a workout plan #1": "Act as a fitness coach. Design a weekly workout plan for fat loss and muscle gain for a beginner.",
+    "create a workout plan #2": "Act as a fitness coach. Design a weekly workout plan for fat loss and muscle gain for a beginner.",
+    "create a workout plan #3": "Act as a fitness coach. Design a weekly workout plan for fat loss and muscle gain for a beginner.",
+    "create a workout plan #4": "Act as a fitness coach. Design a weekly workout plan for fat loss and muscle gain for a beginner.",
+    "create a workout plan #5": "Act as a fitness coach. Design a weekly workout plan for fat loss and muscle gain for a beginner.",
+    "create a workout plan #6": "Act as a fitness coach. Design a weekly workout plan for fat loss and muscle gain for a beginner.",
+    "create a workout plan #7": "Act as a fitness coach. Design a weekly workout plan for fat loss and muscle gain for a beginner.",
+    "write a healthy meal plan #8": "Act as a nutritionist. Create a 7-day healthy meal plan for someone with a gluten allergy.",
+    "create a workout plan #9": "Act as a fitness coach. Design a weekly workout plan for fat loss and muscle gain for a beginner.",
+    "write a healthy meal plan #10": "Act as a nutritionist. Create a 7-day healthy meal plan for someone with a gluten allergy."
+  },
+  "travel": {
+    "plan a trip to japan #1": "Act as a travel guide. Plan a 10-day itinerary for Japan including culture, food, and landmarks.",
+    "plan a trip to japan #2": "Act as a travel guide. Plan a 10-day itinerary for Japan including culture, food, and landmarks.",
+    "plan a trip to japan #3": "Act as a travel guide. Plan a 10-day itinerary for Japan including culture, food, and landmarks.",
+    "plan a trip to japan #4": "Act as a travel guide. Plan a 10-day itinerary for Japan including culture, food, and landmarks.",
+    "find hidden gems in paris #5": "Act as a local Parisian guide. List hidden gems and offbeat spots in Paris for travelers.",
+    "find hidden gems in paris #6": "Act as a local Parisian guide. List hidden gems and offbeat spots in Paris for travelers.",
+    "plan a trip to japan #7": "Act as a travel guide. Plan a 10-day itinerary for Japan including culture, food, and landmarks.",
+    "plan a trip to japan #8": "Act as a travel guide. Plan a 10-day itinerary for Japan including culture, food, and landmarks.",
+    "plan a trip to japan #9": "Act as a travel guide. Plan a 10-day itinerary for Japan including culture, food, and landmarks.",
+    "find hidden gems in paris #10": "Act as a local Parisian guide. List hidden gems and offbeat spots in Paris for travelers."
+  },
+  "relationships": {
+    "write a romantic message #1": "Act as a love coach. Craft a heartfelt romantic message for my partner.",
+    "write a romantic message #2": "Act as a love coach. Craft a heartfelt romantic message for my partner.",
+    "deal with a breakup #3": "Act as a therapist. Give thoughtful, caring advice for handling a recent breakup.",
+    "deal with a breakup #4": "Act as a therapist. Give thoughtful, caring advice for handling a recent breakup.",
+    "write a romantic message #5": "Act as a love coach. Craft a heartfelt romantic message for my partner.",
+    "write a romantic message #6": "Act as a love coach. Craft a heartfelt romantic message for my partner.",
+    "write a romantic message #7": "Act as a love coach. Craft a heartfelt romantic message for my partner.",
+    "write a romantic message #8": "Act as a love coach. Craft a heartfelt romantic message for my partner.",
+    "deal with a breakup #9": "Act as a therapist. Give thoughtful, caring advice for handling a recent breakup.",
+    "write a romantic message #10": "Act as a love coach. Craft a heartfelt romantic message for my partner."
+  },
+  "productivity": {
+    "time management tips #1": "Act as a time management expert. Give me actionable tips to better manage my workday.",
+    "time management tips #2": "Act as a time management expert. Give me actionable tips to better manage my workday.",
+    "time management tips #3": "Act as a time management expert. Give me actionable tips to better manage my workday.",
+    "build a daily routine #4": "Act as a productivity coach. Build a custom daily routine for a remote worker struggling with focus.",
+    "build a daily routine #5": "Act as a productivity coach. Build a custom daily routine for a remote worker struggling with focus.",
+    "build a daily routine #6": "Act as a productivity coach. Build a custom daily routine for a remote worker struggling with focus.",
+    "time management tips #7": "Act as a time management expert. Give me actionable tips to better manage my workday.",
+    "build a daily routine #8": "Act as a productivity coach. Build a custom daily routine for a remote worker struggling with focus.",
+    "build a daily routine #9": "Act as a productivity coach. Build a custom daily routine for a remote worker struggling with focus.",
+    "build a daily routine #10": "Act as a productivity coach. Build a custom daily routine for a remote worker struggling with focus."
+  }
+}
